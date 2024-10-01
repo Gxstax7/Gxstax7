@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Opa 👋! Meu nome é Gustavo Dias, sou graduando de Ciência da Computação na Puc Minas.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://gifmania.com.br/wp-content/uploads/2020/07/no-pain-no-gain-gif.gif)"  />
 
 ###
 
